@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: 100%;
+    background-color: rgb(52, 58, 64);
+    color: white;
+    padding: 5px;
+}
+
+label {
+    font-weight: bold;
+}
+
+h3,
+h5 {
+    text-align: center;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.btn {
+    width: 100%;
+    height: auto;
+}
+
+.btn>button {
+    padding: 10px;
+    background-color: rgb(52, 58, 64);
+    color: white;
+}
